@@ -2,7 +2,7 @@
 # mongodb+nodejs+react apps.
 _MongoDb + nodejs + reactapp by Gabriel Pablo Caraballo_
 
-##PRE REQUISITES
+## PRE REQUISITES
 _Install Docker for windows or mac or linux...
 On windows 
 Enable hyper V on windows 10
