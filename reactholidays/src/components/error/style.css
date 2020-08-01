@@ -1,0 +1,16 @@
+.error{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:center;
+    font-family:'Work Sans', sans-serif;    
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+}
+.error__sorry{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
